@@ -16,19 +16,19 @@ On the hastags (comments) prior to the query you can see the purpuse of the quer
 
 Here are some examples.
 
-### Revenue by movie
+#### Revenue by movie
 
 ![image](https://user-images.githubusercontent.com/82513917/202572321-1af225ae-86d0-4779-9c91-9f107cba450e.png)
 
 
-### Movies with most actors starring 
+#### Movies with most actors starring 
 
 ![image](https://user-images.githubusercontent.com/82513917/202572408-b69f9553-d190-47e7-b43e-606ad6a6565d.png)
 
 
-### Here we can see that even though "Mike Hillyer" rented more movies, "Jon Stephens" generated more revenue
+#### Here we can see that even though "Mike Hillyer" rented more movies, "Jon Stephens" generated more revenue
 
 ![image](https://user-images.githubusercontent.com/82513917/202572937-9d79031e-25e1-47ca-ac65-259b242ea9c4.png)   ![image](https://user-images.githubusercontent.com/82513917/202572812-f4800f9a-af2d-438b-b8d7-cb24dd8ef097.png)
 
-I'll stop here. :) 
+Thanks!
 
